@@ -1,10 +1,15 @@
 # Hotel Booking Data Analysis
 
-##TABLE OF CONTENT -
+## TABLE OF CONTENT
 
-- [Business Problem](https://github.com/AVISH-HH/hotel_bookings/#BUSINESS-PROBLEM)
+- [Business Problem](#business-problem)
+- [Assumptions](#assumptions)
+- [Research Questions](#research-questions)
+- [Hypothesis](#hypothesis)
+- [Analysis And Findings](#analysis-and-findings)
+- [Suggestions](#suggestions)
 
-## BUSINESS PROBLEM -
+## BUSINESS PROBLEM
 
 In recent years, City Hotel and Resort Hotel have seen high cancelation rates.Each hotel is now dealing with number of issues as a result, including fewer revenues and less than ideal hotel room use.Consequently, lowering cancelation rates is both hotels' primary goal in order to increase their efficiency in genrating revenue, and for us to offer thorough business advice to address this problem.
 
@@ -13,7 +18,7 @@ The analysis of hotel booking cancelations as well as other factors that have no
 ![Hotel_Bookings](https://github.com/user-attachments/assets/84e59048-e239-44fe-a0aa-da997d0b2fd1)
 
 
-## ASSUMPTIONS -
+## ASSUMPTIONS
 
 1. No unusual occurrence between 2015 and 2017 will have a substantial impact on the data used.
 2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
@@ -23,19 +28,19 @@ The analysis of hotel booking cancelations as well as other factors that have no
 6. Cancelations result in vacant rooms for the booked length of time.
 7. Clients make hotel reservations the same year they make cancelations.
 
-## RESEARCH QUESTIONS -
+## RESEARCH QUESTIONS
 
 1. What are the variables that affect hotel reservation cancelations?
 2. How can we make hotel reservation cancelations better?
 3. How will hotels be assisted in making pricing and promotional decisions?
 
-## HYPOTHESIS -
+## HYPOTHESIS
 
 1. More cancelations occur when the prices are higher.
 2. When their is a longer waiting list, customers tend to cancel more frequently.
 3. The majority of clients are coming from offline travel agents to make their reservations.
 
-## ANALYSIS AND FINDINGS -
+## ANALYSIS AND FINDINGS
 
 ![Reservation_Status_Count](https://github.com/user-attachments/assets/e5c71f82-0196-4a08-96a3-8ab457c83234)
 
