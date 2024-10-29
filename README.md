@@ -2,7 +2,7 @@
 
 ##TABLE OF CONTENT -
 
-- [Business Problem](https://github.com/AVISH-HH/hotel_bookings)
+- [Business Problem](https://github.com/AVISH-HH/hotel_bookings/#BUSINESS-PROBLEM)
 
 ## BUSINESS PROBLEM -
 
