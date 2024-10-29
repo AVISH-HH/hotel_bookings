@@ -2,12 +2,12 @@
 
 ##TABLE OF CONTENT -
 
-- [Business Problem](#business-problem)
-- [Assumptions](#assumptions)
-- [Research Questions](#research-questions)
-- [Hypothesis](#hypothesis)
-- [Analysis And Findings](#analysis-and-findings)
-- [Suggestions](#suggestions)
+- [[Business Problem](#business-problem)](https://github.com/AVISH-HH/hotel_bookings)
+- [[Assumptions](#assumptions)](https://github.com/AVISH-HH/hotel_bookings)
+- [[Research Questions](#research-questions)](https://github.com/AVISH-HH/hotel_bookings)
+- [[Hypothesis](#hypothesis)](https://github.com/AVISH-HH/hotel_bookings)
+- [[Analysis And Findings](#analysis-and-findings)](https://github.com/AVISH-HH/hotel_bookings)
+- [[Suggestions](#suggestions)](https://github.com/AVISH-HH/hotel_bookings)
 
 ## BUSINESS PROBLEM -
 
